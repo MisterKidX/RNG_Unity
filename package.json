@@ -1,35 +1,39 @@
 {
-    "name": "com.dorbendor.tools.unitypackager",
-    "version": "0.1.0",
-    "displayName": "Packager Template",
-    "description": "This provides the base package layout needed for unity's Package Manager",
-    "unity": "2019.3",
-   "keywords": [
-      "Package Manager",
-      "Manifest",
-      "Package"
-    ],
-      "repository": {
-    "url": "https://github.com/MisterKidX/UnityPackager.git",
-    "type": "git"
-  },
+  "name": "com.misterkidx.tools.rng",
+  "version": "0.1.0",
+  "displayName": "Unity RNG",
+  "description": "Provides tools and utilities for working with random number generators.",
+  "unity": "2019.3",
+ "keywords": [
+    "Package Manager",
+    "Manifest",
+    "Package",
+    "RNG",
+    "Random",
+    "Random Number"
+  ],
+    "repository": {
+  "url": "https://github.com/MisterKidX/RNG_Unity.git",
+  "type": "git"
+},
 "license" : "MIT",
-"samples": [
-    {
-      "displayName": "Custom Sample 0",
-      "description": "Description 0.",
-      "path": "Samples~/CustomSample0"
-    },
-    {
-      "displayName": "Custom Sample 1",
-      "description": "Description 1.",
-      "path": "Samples~/CustomSample1"
-    }
-],
-    "author": {
-      "name": "Dor Ben Dor",
-      "email": "contact@dorbendor.com",
-      "url": "https://www.dorbendor.com"
-    }
+"samples - (future use)": 
+[
+  {
+    "displayName": "Custom Sample 0",
+    "description": "Description 0.",
+    "path": "Samples~/CustomSample0"
+  },
+  {
+    "displayName": "Custom Sample 1",
+    "description": "Description 1.",
+    "path": "Samples~/CustomSample1"
   }
-  
+],
+  "author": {
+    "name": "Dor Ben Dor",
+    "email": "contact@dorbendor.com",
+    "url": "https://www.dorbendor.com"
+  }
+}
+
