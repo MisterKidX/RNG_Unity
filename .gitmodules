@@ -1,0 +1,4 @@
+ [submodule "RNG"]
+     path = lib/RNG
+     url = https://github.com/MisterKidX/RNG.git
+     branch = build
